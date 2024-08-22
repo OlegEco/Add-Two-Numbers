@@ -22,6 +22,6 @@
             if (l2 != null) l2 = l2.next;
         }
 
-        return interceptor.next; 
+        return interceptor.next;
     }
 }
